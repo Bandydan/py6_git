@@ -1,3 +1,7 @@
+asl;va;klf
+d;kvja;kfv
+a;lfvja;lkfjv
+
 result = int(input("Givee mee a begin num: "))
 plus = int(input("Givee mee a plus num: "))
 months = int(input("Givee mee a months num: "))
